@@ -1,5 +1,5 @@
 # sync-ssh-keys-with-github
-Sync SSH public keys on my github with my server
+Sync SSH public keys on my github with my server (Automated)
 
 ```shell
 crontab -e
